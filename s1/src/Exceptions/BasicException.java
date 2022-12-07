@@ -14,6 +14,7 @@ public class BasicException {
 		//because of exception it will not execute next code and will stop execution
 		System.out.println("hi");
 		//changes removed from this line to learn git process
+		//again changes done to learn push changes made later
 	}
 
 }
