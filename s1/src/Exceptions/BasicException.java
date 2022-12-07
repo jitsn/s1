@@ -1,7 +1,7 @@
 package Exceptions;
 
 public class BasicException {
-	
+	//to throw runtime exception we use this code
 	static void demo() {
 		 throw new NullPointerException();
 	}
