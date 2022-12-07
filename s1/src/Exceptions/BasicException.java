@@ -13,7 +13,7 @@ public class BasicException {
 		demo();
 		//because of exception it will not execute next code and will stop execution
 		System.out.println("hi");
-		System.out.println("changes done to learn git");
+		//changes removed from this line to learn git process
 	}
 
 }
