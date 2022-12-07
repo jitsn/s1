@@ -1,7 +1,7 @@
 package Exceptions;
 
 public class BasicException {
-	//to throw runtime exception we use this code
+	
 	static void demo() {
 		 throw new NullPointerException();
 	}
@@ -13,6 +13,7 @@ public class BasicException {
 		demo();
 		//because of exception it will not execute next code and will stop execution
 		System.out.println("hi");
+		System.out.println("changes done to learn git");
 	}
 
 }
